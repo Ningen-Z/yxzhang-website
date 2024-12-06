@@ -1,6 +1,6 @@
 baseURL = "https://yxzhang-website-3zdm-seven.vercel.app/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "MyBlog"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
